@@ -9,7 +9,7 @@ I created a scripts folder in `$HOME/` put the scripts inside, then added it to 
 `bindsym XF86MonBrightnessUp exec lightup`
 `bindsym XF86MonBrightnessUp exec lightdown`
 
-PT-BR:
+
 # brilho do monitor
 Script para alterar o brilho do monitor do terminal
 
