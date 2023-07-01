@@ -2,7 +2,7 @@
 Script to change monitor brightness from terminal
 
 ### Why I created this script
-I adopted I3wm on my Arch, but I couldn't adjust the screen brightness, even with help from the community through forums. Thus, I decided to create a script that met my expectations.
+I adopted I3wm on my Arch and decided to create a script that controlled the screen brightness.
 
 ### How to use
 Need the package: xorg-xrandr
@@ -19,7 +19,7 @@ I created a scripts folder in `$HOME/` put the scripts inside, then added it to 
 Script para alterar o brilho do monitor do terminal
 
 ### Por que criei este script
-Adotei o I3wm no meu Arch, mas não consegui ajustar o brilho da tela, mesmo com ajuda da comunidade através de fóruns. Assim, resolvi criar um script que atendesse às minhas expectativas.
+Adotei o I3wm no meu Arch e resolvi criar um script que controlasse o brilho da tela.
 
 ### Como usar
 Precisa do pacote: xorg-xrandr
