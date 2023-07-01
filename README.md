@@ -7,6 +7,7 @@ I adopted I3wm on my Arch, but I couldn't adjust the screen brightness, even wit
 ### How to use
 I created a scripts folder in `$HOME/` put the scripts inside, then added it to `$PATH`, then went to `$HOME/.config/i3/config` and added the lines:
 `bindsym XF86MonBrightnessUp exec lightup`
+
 `bindsym XF86MonBrightnessUp exec lightdown`
 
 
@@ -19,4 +20,5 @@ Adotei o I3wm no meu Arch, mas não consegui ajustar o brilho da tela, mesmo com
 ### Como usar
 Criei uma pasta de scripts em `$HOME/` coloquei os scripts dentro, depois adicionei em `$PATH`, depois fui em `$HOME/.config/i3/config` e adicionei as linhas:
 `bindsym XF86MonBrightnessUp exec lightup`
+
 `bindsym XF86MonBrightnessUp exec lightdown`
